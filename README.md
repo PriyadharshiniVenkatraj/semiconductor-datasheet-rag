@@ -158,6 +158,6 @@ Image and Diagram Retrieval
 
 ## Author
 
-**Priya Dharshini**
+**Priyadharshini**
 
 Machine Learning and AI Enthusiast
