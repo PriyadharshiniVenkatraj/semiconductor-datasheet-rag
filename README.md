@@ -55,7 +55,7 @@ project/
 ### Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/PriyadharshiniVenkatraj/semiconductor-datasheet-rag.git
 cd project
 ```
 
